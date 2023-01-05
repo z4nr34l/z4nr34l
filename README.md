@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm Z4NR34L </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**z4nr34l/z4nr34l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-Here are some ideas to get you started:
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+- Cyber-security
+- Software Engineering
+- Reverse Engineering
+- Red-teaming
+- [Personal website](https://www.zanreal.net)
+  
+[![Z4NR34L's GitHub stats](https://github-readme-stats.vercel.app/api?username=z4nr34l&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
