@@ -10,4 +10,4 @@
 - Red-teaming
 - [Personal website](https://www.zanreal.net)
   
-[![Z4NR34L's GitHub stats](https://github-readme-stats.vercel.app/api?username=z4nr34l&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Z4NR34L's GitHub stats](https://github-readme-stats.vercel.app/api?username=z4nr34l&count_private=true&show_icons=true&theme=dark)](https://www.zanreal.net)
