@@ -5,8 +5,8 @@ I'm a dedicated professional with a lifelong passion for IT, serving as both a m
 
 ## Current Key Technical Expertise
 
-| [TypeScript](https://www.typescriptlang.org/) | [Node.js](https://nodejs.org/) | [Rust](https://www.rust-lang.org/) | [Vercel](https://vercel.com) | [AI SDK](https://sdk.vercel.ai) | [Next.js](https://nextjs.org/) | [TailwindCSS](https://tailwindcss.com/) |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| [TypeScript](https://www.typescriptlang.org/) | [Node.js](https://nodejs.org/) | [Rust](https://www.rust-lang.org/) | [Vercel](https://vercel.com) | [OpenAI Platform](https://platform.openai.com) | [AI SDK](https://sdk.vercel.ai) | [Next.js](https://nextjs.org/) | [TailwindCSS](https://tailwindcss.com/) |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 
 ### Let's get in touch
 
