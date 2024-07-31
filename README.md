@@ -16,3 +16,5 @@ My journey in IT is driven by a desire to mentor others, share knowledge, and co
 
 | [Website](https://www.zanreal.net) | [Linkedin](https://www.linkedin.com/in/zanreal/) | [Twitter](https://twitter.com/z4nr34l) |
 | ------ | ------- | -------- |
+
+![Animated Mario the Brogrammer background](./assets/mario_bg.gif)
