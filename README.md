@@ -1,11 +1,20 @@
 # `Z4NR34L` - Mateusz Janota
-## Hello there, nice to see you!
 
-I am a dedicated professional with a lifelong passion for IT, specializing in software engineering and cybersecurity. With a wealth of experience and a deep commitment to excellence, I currently serve as a Senior Software Engineer at `INNPRO`, where I lead the Software Engineering Team to deliver cutting-edge solutions. I contribute my expertise to `Golden Bow Solutions`, working on high-impact projects for some of the biggest brands in Poland.
+## About me
 
-In addition to my professional and community contributions, I am also the founder of `Rescale`, a company dedicated to providing custom software development and serverless services on our own platform. At Rescale, we specialize in creating tailored solutions, but also for example an advanced events gateway for webhooks or external APIs, designed to meet the unique needs of our clients.
+I am Mateusz Janota, a passionate technologist and entrepreneur with a lifelong dedication to IT and innovation. Currently, I'm the CEO & Founder of **ZanReal Labs**, where I lead a team delivering comprehensive technology solutions for modern companies and startups.
 
-My journey in IT is driven by a desire to mentor others, share knowledge, and continuously push the boundaries of what’s possible in technology. Whether leading a team, solving complex problems, or building groundbreaking platforms, I am committed to making a lasting impact in the world of software engineering and cybersecurity.
+## What I Do
+
+My journey in technology has evolved from software engineering and cybersecurity to building a full-service technology company. At **ZanReal Labs**, we provide one-stop-shop services including custom software development, IT solutions, marketing, and UI/UX design - all focused on delivering innovation and real business value.
+
+Beyond traditional tech services, I've been flying drones for over 10 years and am a certified **UAV Pilot & Operator**. We're now offering drone services across Poland, from aerial photography and videography to industrial inspections, bringing cutting-edge aerial technology to businesses that need it.
+
+## My Background & Passion
+
+With extensive experience in software engineering and cybersecurity, I bring a unique blend of technical expertise and business acumen to every project. My journey in IT has been driven by a desire to mentor others, share knowledge, and continuously push the boundaries of what's possible in technology.
+
+Whether I'm leading a development team, piloting drones for industrial inspections, or building innovative software solutions, I'm committed to making a lasting impact in the world of technology and helping businesses succeed in the digital age.
 
 ## Current Key Technical Expertise
 
@@ -18,5 +27,5 @@ My journey in IT is driven by a desire to mentor others, share knowledge, and co
 | ------ | ------- | -------- |
 
 &nbsp;
- 
+
 ![Animated Mario the Brogrammer background](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
