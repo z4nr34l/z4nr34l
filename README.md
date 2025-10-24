@@ -2,7 +2,7 @@
 
 ## About me
 
-I am Mateusz Janota, a passionate technologist and entrepreneur with a lifelong dedication to IT and innovation. Currently, I'm the CEO & Founder of **ZanReal Labs**, where I lead a team delivering comprehensive technology solutions for modern companies and startups.
+I am Mateusz Janota, a passionate technologist and entrepreneur with a lifelong dedication to IT and innovation. Currently, I'm the CEO & Founder of **ZanReal**, where I lead a team delivering comprehensive technology solutions for modern companies and startups.
 
 ## What I Do
 
