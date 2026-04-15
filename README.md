@@ -6,7 +6,7 @@ I am Mateusz Janota, a passionate technologist and entrepreneur with a lifelong 
 
 ## What I Do
 
-My journey in technology has evolved from software engineering and cybersecurity to building a full-service technology company. At **ZanReal Labs**, we provide one-stop-shop services including custom software development, IT solutions, marketing, and UI/UX design - all focused on delivering innovation and real business value.
+My journey in technology has evolved from software engineering and cybersecurity to building a full-service technology company. At **ZanReal**, we provide one-stop-shop services including custom software development, IT solutions, marketing, and UI/UX design - all focused on delivering innovation and real business value.
 
 Beyond traditional tech services, I've been flying drones for over 10 years and am a certified **UAV Pilot & Operator**. We're now offering drone services across Poland, from aerial photography and videography to industrial inspections, bringing cutting-edge aerial technology to businesses that need it.
 
